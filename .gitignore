@@ -9,3 +9,4 @@ sd*.raw*
 rootfs*
 */*.tar
 */*.built
+.docker-container.built
