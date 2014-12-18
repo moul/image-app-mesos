@@ -1,6 +1,8 @@
 Official Mesos image on Online Labs
 ====================================
 
+**Warning: Still in development**
+
 Scripts to build the official Mesos image on Online Labs
 
 This image is built using [Image Tools](https://github.com/online-labs/image-tools) and depends on the official [Ubuntu](https://github.com/online-labs/image-ubuntu) image.
@@ -23,3 +25,8 @@ Commands
     $ make install_on_disk
 
 Full list of commands available at: https://github.com/online-labs/image-tools/tree/master#commands
+
+Links
+-----
+
+- [Community: Mesos on C1 servers](https://community.cloud.online.net/t/mesos-on-c1-servers/414)
