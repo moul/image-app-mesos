@@ -1,5 +1,6 @@
 ## -*- docker-image-name: "armbuild/ocs-app-mesos:vivid" -*-
 FROM armbuild/ocs-distrib-ubuntu:vivid
+MAINTAINER Online Labs <opensource@ocs.online.net> (@online_en)
 
 
 # Prepare rootfs for image-builder
