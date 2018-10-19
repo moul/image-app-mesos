@@ -1,6 +1,8 @@
 Official Mesos image on Online Labs
 ====================================
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/image-app-mesos.svg)](https://www.guardrails.io)
+
 **Warning: Still in development**
 
 Scripts to build the official Mesos image on Online Labs
